@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Block 3/KNIGHT TIMES/KNIGHT TIMES/Dont give up/Content/Spikes.png</File>
+    <File>E:/Block 3/KNIGHT TIMES/KNIGHT TIMES/Dont give up/Content/BackGround.png</File>
+    <File>E:/Block 3/KNIGHT TIMES/KNIGHT TIMES/Dont give up/Content/BackGround2.png</File>
+    <File>E:/Block 3/KNIGHT TIMES/KNIGHT TIMES/Dont give up/Content/BackGround3.png</File>
+    <File>E:/Block 3/KNIGHT TIMES/KNIGHT TIMES/Dont give up/Content/EndPoint.png</File>
+    <File>E:/Block 3/KNIGHT TIMES/KNIGHT TIMES/Dont give up/Content/Player.png</File>
+    <File>E:/Block 3/KNIGHT TIMES/KNIGHT TIMES/Dont give up/Content/FloorPlatform.png</File>
+    <File>E:/Block 3/KNIGHT TIMES/KNIGHT TIMES/Dont give up/Content/Boss1.png</File>
+    <File>E:/Block 3/KNIGHT TIMES/KNIGHT TIMES/Dont give up/Content/Font.spritefont</File>
+    <File>E:/Block 3/KNIGHT TIMES/KNIGHT TIMES/Dont give up/Content/Coin.png</File>
+    <File>E:/Block 3/KNIGHT TIMES/KNIGHT TIMES/Dont give up/Content/Heavy.png</File>
+  </SourceFiles>
+</SourceFileCollection>
