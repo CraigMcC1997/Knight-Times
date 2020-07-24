@@ -1,0 +1,45 @@
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\BackGround.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\BackGround2.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\BackGround3.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\Boss1.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\Box.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\Castle.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\Coin.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\EndPoint.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\FloorPlatform.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\Font.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\Gun.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\Heavy.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\HitboxSquare.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\House1.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\House2.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\House3.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\Light.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\Player.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\Ranged.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\Spikes.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Content\statue.xnb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Dont give up.exe
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\Dont give up.pdb
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\MonoGame.Framework.dll
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.MediaFoundation.dll
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.dll
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.XAudio2.dll
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.Direct3D11.dll
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.DXGI.dll
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.Direct2D1.dll
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.XInput.dll
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.RawInput.dll
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.Direct3D9.dll
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\MonoGame.Framework.xml
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.MediaFoundation.xml
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.xml
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.XAudio2.xml
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.Direct3D11.xml
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.DXGI.xml
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.Direct2D1.xml
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.XInput.xml
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.RawInput.xml
+F:\KNIGHT TIMES\Dont give up\bin\Windows\Release\SharpDX.Direct3D9.xml
+F:\KNIGHT TIMES\Dont give up\obj\x86\Release\Dont give up.exe
+F:\KNIGHT TIMES\Dont give up\obj\x86\Release\Dont give up.pdb

@@ -1,0 +1,357 @@
+E:\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.exe
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.pdb
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.dll
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.xml
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.exe
+E:\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.pdb
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Platform.xnb
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Player.xnb
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Background.xnb
+E:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+F:\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.exe
+F:\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.pdb
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Background.xnb
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Platform.xnb
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Player.xnb
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.exe
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.pdb
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.dll
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.xml
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
+F:\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.exe
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.pdb
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Background.xnb
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Gun.xnb
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Platform.xnb
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Player.xnb
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.exe
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.pdb
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.dll
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.xml
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.exe
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.pdb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Background.xnb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Gun.xnb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Player.xnb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.exe
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.pdb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.dll
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.xml
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Bullet.xnb
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+E:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Box.xnb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Box.xnb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Bullet.xnb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Platform.xnb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
+F:\Programming\Made by me\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\HalfWall.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.exe
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.pdb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Background.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Box.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Bullet.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Gun.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\HalfWall.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Platform.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Player.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.exe
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.pdb
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.dll
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.xml
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\C McCorrisken\Desktop\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.exe
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.pdb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Background.xnb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Box.xnb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Bullet.xnb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Gun.xnb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\HalfWall.xnb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Platform.xnb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Player.xnb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.exe
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.pdb
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.dll
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.xml
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.exe
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.pdb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Background.xnb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Box.xnb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Bullet.xnb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Gun.xnb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\HalfWall.xnb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Platform.xnb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Player.xnb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.exe
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.pdb
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.dll
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.xml
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Block 3\Programming\Solo Project\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.exe
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.pdb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Background.xnb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Box.xnb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Bullet.xnb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Gun.xnb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\HalfWall.xnb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Platform.xnb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Player.xnb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.exe
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.pdb
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.dll
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.xml
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Font.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.exe
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.pdb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.exe
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.pdb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.dll
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.xml
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Background.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Box.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Bullet.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Font.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Gun.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\HalfWall.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Platform.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Player.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
+F:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Font2.xnb
+E:\Block 3\Programming\Solo Project\Dont give up\Dont give up\bin\Windows\Debug\Content\Font2.xnb
+E:\New folder\Dont give up\Dont give up\obj\x86\Debug\Dont give up.exe
+E:\New folder\Dont give up\Dont give up\obj\x86\Debug\Dont give up.pdb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\Background.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\Box.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\Bullet.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\Font.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\Font2.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\Gun.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\HalfWall.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\Platform.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\Player.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.exe
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\Dont give up.pdb
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.dll
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.xml
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\New folder\Dont give up\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\New folder\Dont give up\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
+E:\GROUP PROJECT\Dont give up\Dont give up\obj\x86\Debug\Dont give up.exe
+E:\GROUP PROJECT\Dont give up\Dont give up\obj\x86\Debug\Dont give up.pdb
+E:\GROUP PROJECT\Dont give up\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
+E:\KNIGHT TIMES\KNIGHT TIMES\Dont give up\obj\x86\Debug\Dont give up.exe
+E:\KNIGHT TIMES\KNIGHT TIMES\Dont give up\obj\x86\Debug\Dont give up.pdb
+E:\KNIGHT TIMES\KNIGHT TIMES\Dont give up\obj\x86\Debug\Dont give up.csprojResolveAssemblyReference.cache
