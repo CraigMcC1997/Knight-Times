@@ -11,24 +11,41 @@ namespace Knight_Times
 {
     public class Baddies : ICollidable
     {
-        //Gives the Ranged enemy a texture, position and hitbox
-     //   public Texture2D Texture;
-
         //Enemy animations
+        //For facing right when walking
         private animation WalkAnimRight;
+
+        //For facing left when walking
         private animation WalkAnimLeft;
+
+        //For facing right when attacking
         private animation AttackRight;
+
+        //For facing left when attacking
         private animation AttackLeft;
+
+        //Boolean to set the enemies facing left or right
         bool facingleft = false;
+
+        //Boolean to set the enemies attacking or not attacking
         public bool isattacking = false;
+
+        //Sets the position for the enemies
         public Vector2 Position;
 
-       // public bool facingRight;
+        //Private hitbox for the class
         private Rectangle m_hitbox;
+
+        //Gives the enemies a health
         public int Health;
+
+        //gives the enemies a damage
         public int Damage;
+
+        //2nd boolean to set if the enemies are alive or dead
         public bool IsEnemyAlive = true;
 
+        //Public hitbox for the enemies
         public Rectangle Hitbox
         {
             get { return m_hitbox; }
@@ -43,25 +60,26 @@ namespace Knight_Times
 
         public Baddies(ContentManager content, string filename, Vector2 pos, float setspeed, int Health2, int Damage2)
         {
-            //Texture for the Ranged enemy
-            //Texture = content.Load<Texture2D>(filename);
-
+            //Texture for the enemies
+            //takes the file names and adds whatever is in quatation marks to that filename
             WalkAnimRight = new animation(content, filename + "Walk", 0, 0, 1f, Color.White, true, 24, 1, 4, true, false, false);
             WalkAnimLeft = new animation(content, filename + "Walk", 0, 0, 1f, Color.White, true, 24, 1, 4, true, false, true);
             AttackRight = new animation(content, filename + "Attack", 0, 0, 1f, Color.White, false, 12, 1, 4, false, false, false);
             AttackLeft = new animation(content, filename + "Attack", 0, 0, 1f, Color.White, false, 12, 1, 4, false, false, true);
 
-            //Names the position and health for the enemies
+            //Sets the enemies position, speed, health and damages
             Position = pos;
             speed = setspeed;
             Health = Health2;
             Damage = Damage2;
 
+            //sets the positions for whe the enemies are alking left or right
             WalkAnimLeft.start(Position);
             WalkAnimRight.start(Position);
 
         }
 
+        //Handles the colliables from the "interface"
         public CollidableType CollisionType
         {
             get { return CollidableType.Wall; }
@@ -85,25 +103,30 @@ namespace Knight_Times
                 }
             }
 
+            //Updates the enemies when attacking
             if (AttackLeft.visible)
                 AttackLeft.update(gtime);
             if (AttackRight.visible)
                 AttackRight.update(gtime);
 
+            // if the enemy is facing left when walking animation is playing, update
             if (!facingleft)
             {
                 WalkAnimRight.update(gtime);
             }
+            //else if the enemy is facing right when walking animation is playing, update
             else
             {
                 WalkAnimLeft.update(gtime);
             }
 
+            //set the enemy to attack if the bellow requirements are met 
             if (isattacking && !AttackLeft.visible && !AttackRight.visible)
             {
                 isattacking = false;
             }
 
+            //changes which way the enemy is facing when attacking depending on what side of the player they are
             if (Math.Abs(Position.X - player.PlayerPosition.X) < 250)
             {
                 if (!isattacking)
@@ -116,16 +139,18 @@ namespace Knight_Times
                 }
             }
 
-            //Hitbox for the Ranged enemy
-            //    Hitbox = new Rectangle((int)Position.X, (int)Position.Y, Texture.Width, Texture.Height);
+            //Hitbox for the enemies
             Hitbox = new Rectangle((int)Position.X - WalkAnimRight.rect.Width / 2, (int)Position.Y - WalkAnimRight.rect.Height / 2, WalkAnimRight.rect.Width, WalkAnimRight.rect.Height);
         }
 
-        //Player attacking
+        //enemy health int goes down when the player is attacking them
         public void TakeDamage()
         {
+            //Lowers the enemies health
             Health--;
 
+            //sets the boolean to false when the enemies health is less than or equal to 0
+            //(kills the enemy
             if (Health <= 0)
             {
                 IsAlive = false;
@@ -134,10 +159,9 @@ namespace Knight_Times
 
         public void Draw(SpriteBatch spriteBatch)
         {
-            //Draws the enemies on screen if they are alive
+            //Draws the enemies on screen if they are alive and defines if they are attacking or walking left/right
             if (IsAlive)
             {
-                //                spriteBatch.Draw(Texture, Position, null, Color.White, 0, Vector2.Zero, 1, facingRight ? SpriteEffects.FlipHorizontally : SpriteEffects.None, 0);
                 if (facingleft)
                 {
                     if (!isattacking)

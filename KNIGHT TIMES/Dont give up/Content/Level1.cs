@@ -5,10 +5,8 @@ using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace Knight_Times.Content
 {
@@ -21,7 +19,6 @@ namespace Knight_Times.Content
         {
             get { return !Player.IsPlayerAlive; }
         }
-
 
         //Loads the font
         SpriteFont Arial;
@@ -148,6 +145,11 @@ namespace Knight_Times.Content
         Rectangle CoinHitbox7;
         bool IsCoinAlive7 = true;
 
+        Texture2D coin8;
+        Vector2 coinPosition8;
+        Rectangle coinHitbox8;
+        bool isCoinAlive8 = true;
+
         //Game over delay time
         int gameOverDelayTimer = 1000;
 
@@ -173,6 +175,7 @@ namespace Knight_Times.Content
 
         public void LoadContent(ContentManager content, GraphicsDevice graphicsDevice)
         {
+            gameOverDelayTimer = 1000;
             //Camera code
             Camera = new Camera
             {
@@ -204,7 +207,7 @@ namespace Knight_Times.Content
             //FIX THIS OI FIX IT GET IT FIXED OI OI OI FIXY TIME BEFORE U FORGET AND NOT GET IT FIXED LIKE YOU NEED IT TO BE
             PlayerDeadScreenPos = new Vector2(2000, 500);
 
-            //Loads texture for the healthbar from the content pipeline
+            //Loads texture for the healthbars from the content pipeline
             Healthbar1 = content.Load<Texture2D>("NotMovingHealthBar");
             Healthbar2 = content.Load<Texture2D>("HealthBar");
 
@@ -213,17 +216,16 @@ namespace Knight_Times.Content
 
             //Loads the content from the classes
             //Player
-            Player = new Player(content, new Vector2(1670, 1750));
+            Player = new Player(content, new Vector2(2270, 1750));
 
             //Adding an enemy from the baddies class and giving it a position //speed, health, damage
             enemies.Clear();
-            enemies.Add(new Baddies(content, "Heavy", new Vector2(8000, 1744), 1.5f, 100, 2));
-            enemies.Add(new Baddies(content, "Heavy", new Vector2(9000, 1744), 1f, 100, 2));
-            enemies.Add(new Baddies(content, "Heavy", new Vector2(10000, 1744), 0.7f, 100, 2));
-            enemies.Add(new Baddies(content, "Sheep", new Vector2(7000, 1824), 5f, 50, 2));
-            enemies.Add(new Baddies(content, "Sheep", new Vector2(7500, 1824), 4f, 50, 2));
-            enemies.Add(new Baddies(content, "Sheep", new Vector2(8000, 1824), 3f, 50, 2));
-
+            enemies.Add(new Baddies(content, "Heavy", new Vector2(8000, 1744), 1.5f, 100, 4));
+            enemies.Add(new Baddies(content, "Heavy", new Vector2(9000, 1744), 1f, 100, 4));
+            enemies.Add(new Baddies(content, "Heavy", new Vector2(10000, 1744), 0.7f, 100, 4));
+            enemies.Add(new Baddies(content, "Sheep", new Vector2(7000, 1824), 5f, 50, 3));
+            enemies.Add(new Baddies(content, "Sheep", new Vector2(7500, 1824), 4f, 50, 3));
+            enemies.Add(new Baddies(content, "Sheep", new Vector2(8000, 1824), 3f, 50, 3));
 
             //Floor
             m_collidables.Clear();
@@ -331,7 +333,6 @@ namespace Knight_Times.Content
             Coin = content.Load<Texture2D>("Coin");
             CoinPos = new Vector2(2250, 1110);
 
-
             Coin2 = content.Load<Texture2D>("Coin");
             CoinPos2 = new Vector2(2600, 1400);
 
@@ -350,6 +351,9 @@ namespace Knight_Times.Content
             Coin7 = content.Load<Texture2D>("Coin");
             CoinPos7 = new Vector2(10100, 1470);
 
+            coin8 = content.Load<Texture2D>("Coin");
+            coinPosition8 = new Vector2(3000, 100);
+
             //Hitboxs for the coins
             CoinHitbox = new Rectangle((int)CoinPos.X, (int)CoinPos.Y, Coin.Width, Coin.Height);
             CoinHitbox2 = new Rectangle((int)CoinPos2.X, (int)CoinPos2.Y, Coin2.Width, Coin2.Height);
@@ -358,6 +362,7 @@ namespace Knight_Times.Content
             CoinHitbox5 = new Rectangle((int)CoinPos5.X, (int)CoinPos5.Y, Coin5.Width, Coin5.Height);
             CoinHitbox6 = new Rectangle((int)CoinPos6.X, (int)CoinPos6.Y, Coin6.Width, Coin6.Height);
             CoinHitbox7 = new Rectangle((int)CoinPos7.X, (int)CoinPos7.Y, Coin7.Width, Coin7.Height);
+            coinHitbox8 = new Rectangle((int)coinPosition8.X, (int)coinPosition8.Y, coin8.Width, coin8.Height);
 
             IsCoinAlive = true;
             IsCoinAlive2 = true;
@@ -366,6 +371,7 @@ namespace Knight_Times.Content
             IsCoinAlive5 = true;
             IsCoinAlive6 = true;
             IsCoinAlive7 = true;
+            isCoinAlive8 = true;
 
             //Hills
             hills1 = content.Load<Texture2D>("hills1");
@@ -400,7 +406,7 @@ namespace Knight_Times.Content
             Cloud8Pos = new Vector2(9574, 1389);
 
             //Walls
-            var wall = new Wall(content, new Vector2(1000, 1244));
+            var wall = new Wall(content, new Vector2(2000, 1244));
             m_collidables.Add(wall);
 
             wall = new Wall(content, new Vector2(11000, 1244));
@@ -563,18 +569,25 @@ namespace Knight_Times.Content
                 CoinPickup.Play();
             }
 
+            if (Player.Hitbox.Intersects(coinHitbox8) && isCoinAlive8)
+            {
+                Player.Playerscore++;
+                isCoinAlive8 = false;
+                CoinPickup.Play();
+            }
+
             //Adding to the timer int to allow the Light enemy to move
             Timer += timebetweenupdates;
 
             //Moving the clouds across the screen from right to left
             Cloud1Pos.X --;
-            Cloud2Pos.X -=4;
-            Cloud3Pos.X -=3;
-            Cloud4Pos.X -= 1;
-            Cloud5Pos.X -= 2;
-            Cloud6Pos.X -=2;
-            Cloud7Pos.X -= 3;
-            Cloud8Pos.X -= 2;
+            Cloud2Pos.X -=1.5f;
+            Cloud3Pos.X -=1;
+            Cloud4Pos.X -= 1.3f;
+            Cloud5Pos.X -= 1.6f;
+            Cloud6Pos.X -=1.8f;
+            Cloud7Pos.X -= 1.2f;
+            Cloud8Pos.X -= 1.1f;
 
             //PLaces the player in the center of the camera
             Camera.CenterOn(Player.PlayerPosition);
@@ -663,6 +676,11 @@ namespace Knight_Times.Content
                 spriteBatch.Draw(Coin7, CoinPos7, Color.White);
             }
 
+            if(isCoinAlive8)
+            {
+                spriteBatch.Draw(coin8, coinPosition8, Color.White);
+            }
+
             //Draws the player
             if (Player.IsPlayerAlive)
             {
@@ -716,7 +734,7 @@ namespace Knight_Times.Content
             //Draws the healthbar
             float healhbarwidth = ((float)Player.PlayerLives / 1000f) * 200f;
             spriteBatch.Draw(Healthbar1, Healthbar1Pos ,Color.White);
-            spriteBatch.Draw(Healthbar2, new Rectangle(65, 51, (int)healhbarwidth, 50), Color.White);
+            spriteBatch.Draw(Healthbar2, new Rectangle(100, 70, (int)healhbarwidth, 50), Color.White);
 
             // draw losing screen
             if (!Player.IsPlayerAlive && gameOverDelayTimer <= 0)

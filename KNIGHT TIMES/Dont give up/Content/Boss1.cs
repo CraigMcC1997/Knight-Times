@@ -10,10 +10,16 @@ namespace Knight_Times
 {
     public class Boss1 : ICollidable
     {
-        //Gives the boss a texture, position and hitbox
+        //Gives the boss a texture
         public Texture2D Texture;
+
+        //Gives the boss a position
         public Vector2 Position;
+
+        //Gives the boss a private hitbox
         private Rectangle m_hitbox;
+
+        //Gives the boss a public hitbox
         public Rectangle Hitbox
         {
             get { return m_hitbox; }
@@ -26,7 +32,7 @@ namespace Knight_Times
         //boss health
         public int BossLives = 300;
 
-        //boss life boolean
+        //boss life boolean starting at true
         public bool IsBossAlive = true;
 
         //Gives the boss a Collision box using the pre-defined "wall" hitbox
@@ -54,8 +60,10 @@ namespace Knight_Times
             Hitbox = new Rectangle((int)Position.X, (int)Position.Y, Texture.Width, Texture.Height);
         }
 
+
         public void Draw(SpriteBatch spriteBatch)
         {
+            //Only draws the boss if the boolean is set to true
             if (IsBossAlive)
             {
                 spriteBatch.Draw(Texture, Position, Color.White);

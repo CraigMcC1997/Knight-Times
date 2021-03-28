@@ -4,63 +4,65 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Spikes.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/BackGround.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/EndPoint.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Player.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/FloorPlatform.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Font.spritefont</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Coin.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Heavy.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Castle.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/House1.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/House2.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/House3.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/statue.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Ranged.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/XHitbox.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/hitbox.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/menubackgroundcopy.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/platform.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/hills2.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/hills1.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/castle2.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/PlayerWalk.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/PlayerAttack.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/SheepAttack.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/SheepWalk.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/BackGround2.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Projectile.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/BossAttack.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/BossDeath.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/BossHurt.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/BossTheme.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/CoinPickup.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/enemyattack.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/EnemyHurt.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/GameOver.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/MenuMusic.WAV</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/PlayerHurt.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/PlayerJump.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/shop.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Sköll.MP3</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Light.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/PlayerAttackSound.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Knight Times.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/NotMovingHealthBar.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Boss.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/HealthBar.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/VictoryTheme.wav</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Crate.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Controls.PNG</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Win.PNG</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Story.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/HeavyAttack.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/HeavyWalk.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/GameLose.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/PlayerDead.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Wall.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Cloud1.png</File>
-    <File>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/Cloud2.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Spikes.png</File>
+    <File>E:/Knight Times/Dont give up/Content/BackGround.png</File>
+    <File>E:/Knight Times/Dont give up/Content/EndPoint.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Player.png</File>
+    <File>E:/Knight Times/Dont give up/Content/FloorPlatform.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Font.spritefont</File>
+    <File>E:/Knight Times/Dont give up/Content/Coin.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Heavy.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Castle.png</File>
+    <File>E:/Knight Times/Dont give up/Content/House1.png</File>
+    <File>E:/Knight Times/Dont give up/Content/House2.png</File>
+    <File>E:/Knight Times/Dont give up/Content/House3.png</File>
+    <File>E:/Knight Times/Dont give up/Content/statue.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Ranged.png</File>
+    <File>E:/Knight Times/Dont give up/Content/XHitbox.png</File>
+    <File>E:/Knight Times/Dont give up/Content/hitbox.png</File>
+    <File>E:/Knight Times/Dont give up/Content/menubackgroundcopy.png</File>
+    <File>E:/Knight Times/Dont give up/Content/platform.png</File>
+    <File>E:/Knight Times/Dont give up/Content/hills2.png</File>
+    <File>E:/Knight Times/Dont give up/Content/hills1.png</File>
+    <File>E:/Knight Times/Dont give up/Content/castle2.png</File>
+    <File>E:/Knight Times/Dont give up/Content/PlayerWalk.png</File>
+    <File>E:/Knight Times/Dont give up/Content/PlayerAttack.png</File>
+    <File>E:/Knight Times/Dont give up/Content/SheepAttack.png</File>
+    <File>E:/Knight Times/Dont give up/Content/SheepWalk.png</File>
+    <File>E:/Knight Times/Dont give up/Content/BackGround2.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Projectile.png</File>
+    <File>E:/Knight Times/Dont give up/Content/BossAttack.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/BossDeath.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/BossHurt.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/BossTheme.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/CoinPickup.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/enemyattack.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/EnemyHurt.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/GameOver.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/MenuMusic.WAV</File>
+    <File>E:/Knight Times/Dont give up/Content/PlayerHurt.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/PlayerJump.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/shop.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/Sköll.MP3</File>
+    <File>E:/Knight Times/Dont give up/Content/Light.png</File>
+    <File>E:/Knight Times/Dont give up/Content/PlayerAttackSound.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/Knight Times.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/NotMovingHealthBar.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Boss.png</File>
+    <File>E:/Knight Times/Dont give up/Content/HealthBar.png</File>
+    <File>E:/Knight Times/Dont give up/Content/VictoryTheme.wav</File>
+    <File>E:/Knight Times/Dont give up/Content/Crate.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Controls.PNG</File>
+    <File>E:/Knight Times/Dont give up/Content/Win.PNG</File>
+    <File>E:/Knight Times/Dont give up/Content/Story.png</File>
+    <File>E:/Knight Times/Dont give up/Content/HeavyAttack.png</File>
+    <File>E:/Knight Times/Dont give up/Content/HeavyWalk.png</File>
+    <File>E:/Knight Times/Dont give up/Content/GameLose.png</File>
+    <File>E:/Knight Times/Dont give up/Content/PlayerDead.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Wall.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Cloud1.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Cloud2.png</File>
+    <File>E:/Knight Times/Dont give up/Content/BosslevelEndpoint.png</File>
+    <File>E:/Knight Times/Dont give up/Content/Song2.mp3</File>
   </SourceFiles>
 </SourceFileCollection>

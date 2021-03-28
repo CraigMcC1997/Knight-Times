@@ -13,36 +13,68 @@ namespace Knight_Times.Content
 {
     public class Player : ICollidable
     {
-        //Animations for facing right or left
+        //Player facing right
         private animation PlayerAnimRight;
+
+        //Player facing left
         private animation PlayerAnimLeft;
+
+        //Player attacking right
         private animation PlayerAttackRight;
+
+        //Player attacking left
         private animation PlayerAttackLeft;
+
+        //Sound effect for when the player attacks
         private SoundEffect PlayerAttackSound;
 
-        //  public Texture2D PlayerTexture;
+        //temporary position for the player
         public Vector2 TempPlayerPosition;
+
+        //Position for the player
         public Vector2 PlayerPosition;
+
         //Player lives
         public int PlayerLives = 1000;
+
+        //Old position for the player
         public Vector2 Oldposition;
+
+        //gives the player a score
         public int Playerscore = 0;
+
+        //Gives the player a speed for used for falling as this is gravity
         const float PlayerSpeed = 9.8f;
+
+        //For when the player jumps 
         float startY;
+
+        //Speed at which the player jumps
         float jumpSpeed;
+
+        //boolean to check if the player is jumping or not
         bool jumping;
+
+        //Hitbox for the player
         Rectangle m_hitbox;
+
+        //Boolean to check if the player is facing left or right
         bool facingleft = false;
+
+        //boolean to check if the player is attacking or not
         public bool isattacking = false;
+
         //boolean for killing the player
         public bool IsPlayerAlive = true;
 
+        //hitbox for the player
         public Rectangle Hitbox
         {
             get { return m_hitbox; }
             private set { m_hitbox = value; }
         }
 
+        //Handles the collidables for the player
         public CollidableType CollisionType
         {
             get { return CollidableType.Player; }
@@ -50,12 +82,19 @@ namespace Knight_Times.Content
 
         public Player(ContentManager content, Vector2 pos)
         {
-            //Texture for the Player
-            //     PlayerTexture = content.Load<Texture2D>("Player");
+            //Loads the animation for the player walking from the content pipeline
             PlayerAnimRight = new animation(content, "PlayerWalk", 0, 0, 1f, Color.White, true, 24, 1, 4, true, false, false);
+
+            //Loads the animation for the player walking from the content pipeline
             PlayerAnimLeft = new animation(content, "PlayerWalk", 0, 0, 1f, Color.White, true, 24, 1, 4, true, false, true);
+
+            //Loads the animation for the player attacking from the content pipeline
             PlayerAttackRight = new animation(content, "PlayerAttack", 0, 0, 1f, Color.White, false, 12, 1, 4, false, false, false);
+
+            //Loads the animation for the player attacking from the content pipeline
             PlayerAttackLeft = new animation(content, "PlayerAttack", 0, 0, 1f, Color.White, false, 12, 1, 4, false, false, true);
+
+            //Loads the soubd effect for the player attacking from the content pipeline
             PlayerAttackSound = content.Load<SoundEffect>("PlayerAttackSound");
 
             //Sets starting position for Player
@@ -64,6 +103,8 @@ namespace Knight_Times.Content
 
             PlayerAnimLeft.start();
             PlayerAnimRight.start();
+
+            //Gives the players lives 
             PlayerLives = 1000;
         }
 
@@ -72,34 +113,39 @@ namespace Knight_Times.Content
             //For controller support
             GamePadState padState1 = GamePad.GetState(PlayerIndex.One);
 
-            //which keys move player left and right
-
+            //moves the player using the left thumbstick plus the players speed
             TempPlayerPosition.X += PlayerSpeed * padState1.ThumbSticks.Left.X;
 
+            //Player facing right
             if (padState1.ThumbSticks.Left.X > 0)
             {
                 facingleft = false;
             }
 
+            //Player facing left
             if (padState1.ThumbSticks.Left.X < 0)
             {
                 facingleft = true;
             }
 
+            //Moves the player to the left and makes the player face left
             if (keys.IsKeyDown(Keys.A))
             {
                 TempPlayerPosition.X -= PlayerSpeed;
                 facingleft = true;
             }
+
+            //Moves the player to the right and makes the player face right
             else if (keys.IsKeyDown(Keys.D))
             {
                 TempPlayerPosition.X += PlayerSpeed;
                 facingleft = false;
             }
 
+            //Stop the player moving off screen
             if (TempPlayerPosition.X <= 0) TempPlayerPosition.X = 0;
 
-
+            //updates the player facing right or left
             if (PlayerAttackLeft.visible)
                 PlayerAttackLeft.update(gtime);
             if (PlayerAttackRight.visible)
@@ -114,18 +160,19 @@ namespace Knight_Times.Content
                 PlayerAnimLeft.update(gtime);
             }
 
-            //Jumping update
+            //Maked the player jump when space/A is pressed
             if (keys.IsKeyDown(Keys.Space) || padState1.Buttons.A == ButtonState.Pressed)
             {
                 Jump();
             }
 
+            //Stops the player attacking 
             if (isattacking && !PlayerAttackLeft.visible && !PlayerAttackRight.visible)
             {
                 isattacking = false;
             }
         }
-
+        //Player attacking
         public void attack()
         {
             if (!isattacking)
@@ -136,10 +183,11 @@ namespace Knight_Times.Content
                 else
                     PlayerAttackRight.start();
 
+                //Plays the sound effect when the player attacks
                 PlayerAttackSound.Play(0.2f, 0f, 0f);
             }
         }
-    
+
         //Jumping controls
         public void Jump()
         {
@@ -156,7 +204,7 @@ namespace Knight_Times.Content
 
         public void Update(GameTime gameTime, List<ICollidable> collidables)
         {
-            // apply some gravity
+            //apply some gravity
             TempPlayerPosition.Y += 9.8f;
 
             if (jumping)
@@ -173,6 +221,7 @@ namespace Knight_Times.Content
             PlayerPosition = TempPlayerPosition;
         }
 
+        //Handles collidables within the player class
         private void HandleCollisions(List<ICollidable> collidables)
         {
             if (collidables == null || collidables.Count == 0)
@@ -206,13 +255,13 @@ namespace Knight_Times.Content
                 //Hit From Bottom
                 if (Hitbox.Y > collidable.Hitbox.Y)
                 {
-                    TempPlayerPosition.Y = collidable.Hitbox.Y + Hitbox.Height/2;
+                    TempPlayerPosition.Y = collidable.Hitbox.Y + Hitbox.Height / 2;
                 }
 
                 //Hit From Top
                 else
                 {
-                    TempPlayerPosition.Y = collidable.Hitbox.Y - Hitbox.Height/2;
+                    TempPlayerPosition.Y = collidable.Hitbox.Y - Hitbox.Height / 2;
                 }
 
                 //Jumping code
@@ -225,9 +274,20 @@ namespace Knight_Times.Content
 
         private void CheckWallCollision(ICollidable collidable)
         {
+            //If it's farther than ground
             if (Hitbox.Intersects(collidable.Hitbox))
             {
-                TempPlayerPosition = PlayerPosition;
+                //Hit From Bottom
+                if (Hitbox.X > collidable.Hitbox.X)
+                {
+                    TempPlayerPosition.X = collidable.Hitbox.X + Hitbox.Width;
+                }
+
+                //Hit From Top
+                else
+                {
+                    TempPlayerPosition.X = collidable.Hitbox.X - Hitbox.Width;
+                }
             }
         }
 
@@ -256,7 +316,6 @@ namespace Knight_Times.Content
                     PlayerAttackRight.drawme(spriteBatch, PlayerPosition);
                 }
             }
-            //            spriteBatch.Draw(PlayerTexture, PlayerPosition, null,Color.White,0,Vector2.Zero,1,facingRight ? SpriteEffects.FlipHorizontally : SpriteEffects.None, 0);
         }
 
         //Allows the game to draw the player
@@ -292,9 +351,7 @@ namespace Knight_Times.Content
                     PlayerAttackRight.colour = Color.White;
                 }
             }
-            //            spriteBatch.Draw(PlayerTexture, PlayerPosition, null,Color.White,0,Vector2.Zero,1,facingRight ? SpriteEffects.FlipHorizontally : SpriteEffects.None, 0);
         }
-
 
         //Gives the player a position
         public void Reset(Vector2 pos)

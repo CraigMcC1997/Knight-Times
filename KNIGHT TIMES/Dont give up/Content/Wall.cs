@@ -10,16 +10,23 @@ namespace Knight_Times.Content
 {
     public class Wall : ICollidable
     {
+        //Gives the wall a texture
         public Texture2D Texture;
+
+        //Gives the wall a position
         public Vector2 Position;
 
+        //Gives the wall a private hitbox
         private Rectangle m_hitbox;
+
+        //Gives the wall a public hitbox
         public Rectangle Hitbox
         {
             get { return m_hitbox; }
             set { m_hitbox = value; }
         }
 
+        //Hnadles the Collidables for the wall
         public CollidableType CollisionType
         {
             get { return CollidableType.Wall; }
@@ -27,7 +34,7 @@ namespace Knight_Times.Content
 
         public Wall(ContentManager content, Vector2 position)
         {
-            //Texture for the Wall
+            //Loads the wall texture from the content pipeline 
             Texture = content.Load<Texture2D>("Wall");
 
             //Sets starting position for Wall
@@ -37,6 +44,7 @@ namespace Knight_Times.Content
             Hitbox = new Rectangle((int)Position.X, (int)Position.Y, Texture.Width, Texture.Height);
         }
 
+        //Updates the wall using the player class
         public bool Update(Rectangle playerHitbox)
         {
             return playerHitbox.Intersects(Hitbox);
@@ -44,7 +52,8 @@ namespace Knight_Times.Content
 
         public void Draw(SpriteBatch spriteBatch)
         {
-            spriteBatch.Draw(Texture, Position, Color.White);
+            //Draws the wall on screen
+            //spriteBatch.Draw(Texture, Position, Color.White);
         }
     }
 }

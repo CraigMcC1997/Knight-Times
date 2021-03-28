@@ -13,30 +13,46 @@ namespace Knight_Times
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+
         //Loads the font
         SpriteFont Arial;
 
-
         //Loads the levels
         int m_currentLevel = 0;
+
+        //List of the levels
         List<ILevel> Levels = new List<ILevel>();
 
         //Timer for game score
         public float TimeTaken = 0;
 
+        //Checks for the keyboard state
         KeyboardState lastkeystate;
+
+        //Checks fot if the key has been pressed
         Boolean keyboardreleased = true;
-        float keycounter = 0;           // Counter for delay between key strokes
-        const float keystrokedelay = 200;   // Delay between key strokes in milliseconds
 
-        const int numberofhighscores = 10;                              // Number of high scores to store
-        float[] highscores = new float[numberofhighscores];                 // Array of high scores
-        string[] highscorenames = new string[numberofhighscores];       // Array of high score names
-        const int maxnamelength = 30;   // Maximum name length for high score table
+        //Counter for delay between key strokes
+        float keycounter = 0;
+
+        // Delay between key strokes in milliseconds
+        const float keystrokedelay = 200;
+
+        // Number of high scores to store
+        const int numberofhighscores = 10;
+
+        // Array of high scores
+        float[] highscores = new float[numberofhighscores];
+
+        // Array of high score names
+        string[] highscorenames = new string[numberofhighscores];
+
+        // Maximum name length for high score table
+        const int maxnamelength = 30;
         int lasthighscore = numberofhighscores - 1;
+
+        //Boolean to check if a new highscore has been reached
         Boolean newhighscore = false;
-
-
 
         //Defines the Height and Width of the screen
         public const int WindowWidth = 2000;
@@ -49,8 +65,11 @@ namespace Knight_Times
             graphics.PreferredBackBufferHeight = WindowHeight;
             Content.RootDirectory = "Content";
 
+            //Makes the game fullscreen
+            graphics.IsFullScreen = true;
+
             //Shows the mouse on top of the game screen
-            IsMouseVisible = true;
+            //IsMouseVisible = true;
         }
 
         protected override void Initialize()
@@ -65,7 +84,6 @@ namespace Knight_Times
 
             //List of all the levels in the game
             Levels.Add(new GameStartScreen());
-            //Levels.Add(new GameStartScreen2());
             Levels.Add(new Level1());
             Levels.Add(new BossLevel1());
 
@@ -73,24 +91,36 @@ namespace Knight_Times
             Arial = Content.Load<SpriteFont>("Font");
 
             // Load in high scores
-            if (File.Exists(@"highscore.txt")) // This checks to see if the file exists
+            // This checks to see if the file exists
+            if (File.Exists(@"highscore.txt")) 
             {
-                StreamReader sr = new StreamReader(@"highscore.txt");	// Open the file
+                // Open the file
+                StreamReader sr = new StreamReader(@"highscore.txt");
 
-                String line;		// Create a string variable to read each line into
+                // Create a string variable to read each line into
+                String line;
                 for (int i = 0; i < numberofhighscores && !sr.EndOfStream; i++)
                 {
-                    line = sr.ReadLine();	// Read the first line in the text file
-                    highscorenames[i] = line.Trim(); // Read high score name
+                    // Read the first line in the text file
+                    line = sr.ReadLine();
+
+                    // Read high score name
+                    highscorenames[i] = line.Trim();
 
                     if (!sr.EndOfStream)
                     {
-                        line = sr.ReadLine();	// Read the first line in the text file
-                        line = line.Trim(); 	// This trims spaces from either side of the text
-                        highscores[i] = (float)Convert.ToDecimal(line);	// This converts line to numeric
+                        // Read the first line in the text file
+                        line = sr.ReadLine();
+
+                        // This trims spaces from either side of the text
+                        line = line.Trim();
+
+                        // This converts line to numeric
+                        highscores[i] = (float)Convert.ToDecimal(line);
                     }
                 }
-                sr.Close();			// Close the file
+                // Close the file
+                sr.Close();
             }
             // SORT HIGH SCORE TABLE
             Array.Sort(highscores, highscorenames);
@@ -110,16 +140,19 @@ namespace Knight_Times
             }
             sw.Close();
         }
-
+        
         protected override void Update(GameTime gameTime)
         {
             // Variable to hold keyboard state
             KeyboardState keys = Keyboard.GetState();
-            keyboardreleased = (keys != lastkeystate);      // Has keyboard input changed
+
+            // Has keyboard input changed
+            keyboardreleased = (keys != lastkeystate);  
 
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || keys.IsKeyDown(Keys.Escape))
                 Exit();
 
+            //time between updates
             float timebetweenupdates = (float)gameTime.ElapsedGameTime.TotalMilliseconds;
 
             //Loads the next level
@@ -143,7 +176,8 @@ namespace Knight_Times
                     }
                     else if (newhighscore)
                     {
-                        keycounter -= timebetweenupdates; // Counter to delay between keys of the same value being entered
+                        // Counter to delay between keys of the same value being entered
+                        keycounter -= timebetweenupdates;
                         if (keyboardreleased)
                         {
                             if (keys.IsKeyDown(Keys.Back) && highscorenames[lasthighscore].Length > 0)
@@ -186,7 +220,8 @@ namespace Knight_Times
             }
 
             if (Levels[m_currentLevel].EndCurrentLevel || Levels[m_currentLevel].IsDead)
-            {                // Allow game to return to the start
+            {   
+                // Allow game to return to the start
                 if (GamePad.GetState(PlayerIndex.One).Buttons.B == ButtonState.Pressed || keys.IsKeyDown(Keys.Enter))
                 {
                     // Sort the high score table
@@ -195,8 +230,8 @@ namespace Knight_Times
                 }
             }
 
-
-            lastkeystate = keys;                     // Read keyboard
+            // Read keyboard
+            lastkeystate = keys;                   
 
             base.Update(gameTime);
         }

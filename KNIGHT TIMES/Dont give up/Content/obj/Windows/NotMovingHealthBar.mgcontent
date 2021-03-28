@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/NotMovingHealthBar.png</SourceFile>
-  <SourceTime>2016-05-26T11:57:22+01:00</SourceTime>
-  <DestFile>E:/College/KNIGHT TIMES fixed/KNIGHT TIMES fixed/Dont give up/Content/bin/Windows/NotMovingHealthBar.xnb</DestFile>
-  <DestTime>2017-04-18T12:48:35.1496865+01:00</DestTime>
+  <SourceFile>E:/Knight Times/Dont give up/Content/NotMovingHealthBar.png</SourceFile>
+  <SourceTime>2016-05-29T21:25:38+01:00</SourceTime>
+  <DestFile>E:/Knight Times/Dont give up/Content/bin/Windows/NotMovingHealthBar.xnb</DestFile>
+  <DestTime>2016-05-31T13:40:56+01:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2016-03-30T07:36:08+01:00</ImporterTime>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2016-03-30T07:36:08+01:00</ProcessorTime>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>

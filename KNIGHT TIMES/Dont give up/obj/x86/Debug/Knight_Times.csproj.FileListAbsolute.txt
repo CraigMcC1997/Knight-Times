@@ -157,8 +157,6 @@ E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\Box.xnb
 E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\Gun.xnb
 E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\BackGround.xnb
 E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\BackGround2.xnb
-E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\BackGround3.xnb
-E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\Boss1.xnb
 E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\Coin.xnb
 E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
 E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
@@ -222,7 +220,6 @@ F:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\XHitbox.xnb
 F:\KNIGHT TIMES\Dont give up\obj\x86\Debug\Knight_Times.csprojResolveAssemblyReference.cache
 E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\HitboxSquare.xnb
 E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\XHitbox.xnb
-E:\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\YHitbox.xnb
 F:\Block 3\KNIGHT TIMES\Dont give up\obj\x86\Debug\Dont give up.exe
 F:\Block 3\KNIGHT TIMES\Dont give up\obj\x86\Debug\Dont give up.pdb
 F:\Block 3\KNIGHT TIMES\Dont give up\bin\Windows\Debug\Content\Box.xnb
@@ -776,179 +773,327 @@ C:\Users\C McCorrisken\Downloads\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give
 C:\Users\C McCorrisken\Downloads\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
 C:\Users\C McCorrisken\Downloads\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
 C:\Users\C McCorrisken\Downloads\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Knight_Times.csprojResolveAssemblyReference.cache
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Dont give up.exe.config
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Dont give up.exe
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Dont give up.pdb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Box.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Gun.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HitboxSquare.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BackGround.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BackGround2.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Boss.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossAttack.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossDeath.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossHurt.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossTheme.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Castle.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\castle2.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Cloud1.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Cloud2.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Coin.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\CoinPickup.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Controls.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Crate.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\enemyattack.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\EnemyHurt.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Font.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\GameLose.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\GameOver.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HealthBar.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Heavy.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HeavyAttack.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HeavyWalk.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\hills1.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\hills2.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\hitbox.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\House1.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\House2.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\House3.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Knight Times.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Light.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\menubackgroundcopy.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\MenuMusic.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\NotMovingHealthBar.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\platform.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Player.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerAttack.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerAttackSound.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerDead.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerHurt.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerJump.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerWalk.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Projectile.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Ranged.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\SheepAttack.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\SheepWalk.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\shop.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Sköll.wma
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Sköll.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\statue.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Story.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\VictoryTheme.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Wall.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Win.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\XHitbox.xnb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Dont give up.exe
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Dont give up.pdb
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.dll
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.xml
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
-E:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Knight_Times.csprojResolveAssemblyReference.cache
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Dont give up.exe.config
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Dont give up.exe
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Dont give up.pdb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Box.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Gun.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HitboxSquare.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BackGround.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BackGround2.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Boss.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossAttack.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossDeath.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossHurt.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossTheme.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Castle.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\castle2.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Cloud1.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Cloud2.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Coin.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\CoinPickup.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Controls.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Crate.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\enemyattack.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\EnemyHurt.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Font.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\GameLose.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\GameOver.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HealthBar.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Heavy.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HeavyAttack.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HeavyWalk.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\hills1.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\hills2.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\hitbox.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\House1.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\House2.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\House3.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Knight Times.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Light.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\menubackgroundcopy.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\MenuMusic.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\NotMovingHealthBar.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\platform.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Player.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerAttack.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerAttackSound.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerDead.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerHurt.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerJump.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerWalk.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Projectile.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Ranged.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\SheepAttack.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\SheepWalk.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\shop.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Sköll.wma
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Sköll.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\statue.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Story.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\VictoryTheme.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Wall.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Win.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\XHitbox.xnb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Dont give up.exe
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Dont give up.pdb
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.dll
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.xml
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
-E:\College\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Knight_Times.csprojResolveAssemblyReference.cache
+F:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Dont give up.exe.config
+F:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Dont give up.exe
+F:\KNIGHT TIMES fixed\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Dont give up.pdb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Dont give up.exe.config
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Dont give up.exe
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Dont give up.pdb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Box.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Gun.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HitboxSquare.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BackGround.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BackGround2.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Boss.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossAttack.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossDeath.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossHurt.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\BossTheme.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Castle.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\castle2.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Cloud1.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Cloud2.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Coin.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\CoinPickup.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Controls.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Crate.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\enemyattack.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\EnemyHurt.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Font.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\GameLose.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\GameOver.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HealthBar.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Heavy.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HeavyAttack.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\HeavyWalk.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\hills1.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\hills2.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\hitbox.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\House1.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\House2.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\House3.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Knight Times.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Light.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\menubackgroundcopy.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\MenuMusic.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\NotMovingHealthBar.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\platform.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Player.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerAttack.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerAttackSound.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerDead.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerHurt.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerJump.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\PlayerWalk.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Projectile.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Ranged.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\SheepAttack.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\SheepWalk.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\shop.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Sköll.wma
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Sköll.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\statue.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Story.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\VictoryTheme.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\Win.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Content\XHitbox.xnb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Dont give up.exe
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\Dont give up.pdb
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.dll
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.xml
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\kerrm\Desktop\KNIGHT TIMES fixed\Dont give up\obj\x86\Debug\Knight_Times.csprojResolveAssemblyReference.cache
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Dont give up.exe.config
+F:\29.05.KnightTimes\Dont give up\obj\x86\Debug\Dont give up.exe
+F:\29.05.KnightTimes\Dont give up\obj\x86\Debug\Dont give up.pdb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Box.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Gun.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\HitboxSquare.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\BackGround.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\BackGround2.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Boss.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\BossAttack.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\BossDeath.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\BossHurt.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\BossTheme.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Castle.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\castle2.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Cloud1.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Cloud2.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Coin.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\CoinPickup.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Controls.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Crate.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\enemyattack.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\EnemyHurt.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Font.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\GameLose.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\GameOver.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\HealthBar.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Heavy.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\HeavyAttack.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\HeavyWalk.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\hills1.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\hills2.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\hitbox.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\House1.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\House2.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\House3.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Knight Times.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Light.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\menubackgroundcopy.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\MenuMusic.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\NotMovingHealthBar.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\platform.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Player.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\PlayerAttack.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\PlayerAttackSound.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\PlayerDead.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\PlayerHurt.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\PlayerJump.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\PlayerWalk.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Projectile.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Ranged.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\SheepAttack.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\SheepWalk.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\shop.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Sköll.wma
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Sköll.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\statue.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Story.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\VictoryTheme.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\Win.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\XHitbox.xnb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Dont give up.exe
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Dont give up.pdb
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.dll
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.xml
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\29.05.KnightTimes\Dont give up\obj\x86\Debug\Knight_Times.csprojResolveAssemblyReference.cache
+F:\29.05.KnightTimes\Dont give up\bin\Windows\Debug\Content\BosslevelEndpoint.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Dont give up.exe.config
+F:\KNIGHT TIMES!\Dont give up\obj\x86\Debug\Dont give up.exe
+F:\KNIGHT TIMES!\Dont give up\obj\x86\Debug\Dont give up.pdb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Box.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Gun.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\HitboxSquare.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\BackGround.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\BackGround2.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Boss.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\BossAttack.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\BossDeath.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\BossHurt.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\BosslevelEndpoint.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\BossTheme.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Castle.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\castle2.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Cloud1.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Cloud2.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Coin.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\CoinPickup.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Controls.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Crate.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\EndPoint.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\enemyattack.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\EnemyHurt.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\FloorPlatform.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Font.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\GameLose.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\GameOver.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\HealthBar.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Heavy.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\HeavyAttack.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\HeavyWalk.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\hills1.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\hills2.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\hitbox.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\House1.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\House2.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\House3.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Knight Times.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Light.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\menubackgroundcopy.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\MenuMusic.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\NotMovingHealthBar.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\platform.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Player.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\PlayerAttack.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\PlayerAttackSound.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\PlayerDead.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\PlayerHurt.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\PlayerJump.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\PlayerWalk.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Projectile.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Ranged.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\SheepAttack.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\SheepWalk.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\shop.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Sköll.wma
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Sköll.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Spikes.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\statue.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Story.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\VictoryTheme.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Win.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\XHitbox.xnb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Dont give up.exe
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Dont give up.pdb
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\MonoGame.Framework.dll
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.dll
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.XInput.dll
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\MonoGame.Framework.xml
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.xml
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.XInput.xml
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\KNIGHT TIMES!\Dont give up\obj\x86\Debug\Knight_Times.csprojResolveAssemblyReference.cache
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Song2.wma
+F:\KNIGHT TIMES!\Dont give up\bin\Windows\Debug\Content\Song2.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\BosslevelEndpoint.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\Cloud1.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\Cloud2.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\Controls.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\GameLose.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\HeavyAttack.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\HeavyWalk.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\PlayerDead.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\Song2.wma
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\Song2.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\Story.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+F:\Knight Times\Dont give up\bin\Windows\Debug\Content\Win.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Dont give up.exe.config
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Boss.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\BossAttack.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\BossDeath.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\BossHurt.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\BosslevelEndpoint.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\BossTheme.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\castle2.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Cloud1.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Cloud2.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\CoinPickup.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Controls.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Crate.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\enemyattack.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\EnemyHurt.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\GameLose.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\GameOver.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\HealthBar.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\HeavyAttack.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\HeavyWalk.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Knight Times.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\MenuMusic.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\NotMovingHealthBar.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\PlayerAttackSound.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\PlayerDead.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\PlayerHurt.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\PlayerJump.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\PlayerWalk.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Projectile.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\SheepAttack.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\SheepWalk.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\shop.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Sköll.wma
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Sköll.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Song2.wma
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Song2.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Story.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\VictoryTheme.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Wall.xnb
+E:\Knight Times\Dont give up\bin\Windows\Debug\Content\Win.xnb

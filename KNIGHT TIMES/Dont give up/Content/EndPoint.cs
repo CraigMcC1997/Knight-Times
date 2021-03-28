@@ -10,19 +10,26 @@ namespace Knight_Times.Content
 {
     public class EndPoint : ICollidable
     {
+        //Gives the Endpoint a texture
         public Texture2D EndPointTexture;
+
+        //Gives the Endpoint a position
         public Vector2 EndPointPosition;
 
+        //Gives the end point a private hitbox
         private Rectangle m_hitbox;
+
+        //Gives the end point a pulic hitbox
         public Rectangle Hitbox
         {
             get { return m_hitbox; }
             set { m_hitbox = value; }
         }
 
+        //Handles the collidables for the end point
         public CollidableType CollisionType
         {
-            get { return CollidableType.Endpoint; } 
+            get { return CollidableType.Endpoint; }
         }
 
         public EndPoint(ContentManager content, Vector2 position)
@@ -37,11 +44,13 @@ namespace Knight_Times.Content
             Hitbox = new Rectangle((int)EndPointPosition.X, (int)EndPointPosition.Y, EndPointTexture.Width, EndPointTexture.Height);
         }
 
+        //Updates the end point when then player intersects it
         public bool Update(Rectangle playerHitbox)
         {
             return playerHitbox.Intersects(Hitbox);
         }
 
+        //Draws the end point
         public void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Draw(EndPointTexture, EndPointPosition, Color.White);

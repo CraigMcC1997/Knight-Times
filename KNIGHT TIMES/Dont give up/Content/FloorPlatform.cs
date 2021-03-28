@@ -10,12 +10,19 @@ namespace Knight_Times.Content
 {
     public class FloorPlatform : ICollidable
     {
+        //Gives the Floor Platform a texture
         public Texture2D FloorPlatformTexture;
+
+        //Gives the Floor Platform a position
         public Vector2 FloorPlatformPosition;
 
+        //Handles the collidables for the floor platform 
         public CollidableType CollisionType { get { return CollidableType.Floor; } }
 
+        //Gives the floor a private hitbox
         private Rectangle m_hitbox;
+
+        //Gives the floor a public hitbox
         public Rectangle Hitbox
         {
             get { return m_hitbox; }
@@ -36,6 +43,7 @@ namespace Knight_Times.Content
 
         public void Draw(SpriteBatch spriteBatch)
         {
+            //Draws the floor platform
             spriteBatch.Draw(FloorPlatformTexture, FloorPlatformPosition, Color.White);
         }
     }

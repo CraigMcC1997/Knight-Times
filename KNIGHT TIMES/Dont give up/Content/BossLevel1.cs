@@ -15,105 +15,150 @@ namespace Knight_Times.Content
     {
         //Loads the classes
         public Player Player;
+
+        //Sets a boolean to check if player is dead or alive
         public bool IsDead
         {
             get { return !Player.IsPlayerAlive; }
         }
 
+        //Loads the boss class into the boss level
         Boss1 Boss;
 
-        //Projectile
+        //Texture for the Projectile
         Texture2D Projectile;
+
+        //Position for the Projectile
         Vector2 ProjectilePos;
+
+        //hitbox for the Projectile
         Rectangle ProjectileHitbox;
+
+        //velocity for the Projectile
         Vector2 ProjectileVel;
+
+        //speed for the Projectile
         float ProjectileSpeed = 30;
 
-        //Healthbar
+        //Healthbar Texture
         Texture2D Healthbar1;
+
+        //Healthbar Position
         Vector2 Healthbar1Pos;
+
+        //Part of the healthbar that shrinks when the player takes damage
         Texture2D Healthbar2;
+
+        //Texture for Flag
+        Texture2D Flag;
+        //Position for flag
+        Vector2 FlagPos;
+        //Hitbox for the flag
+        Rectangle FlagHitbox;
 
         //Timer
         float Timer = 0;
 
         //Loads the font code
         SpriteFont Arial;
+        //BossHealth Position
         Vector2 BossHealthPosition;
+        //PlayerHealth Position
         Vector2 PlayersHealthPos;
 
-        //Background information
+        //Background Texture
         Texture2D BackgroundTexture;
+        //Background Position
         Vector2 BackgroundPosition;
 
-        //EndScreen
+        //EndScreen Texture
         Texture2D EndScreen;
+        //Endscreen Position
         Vector2 EndScreenPos;
 
-        //Players dies screen
+        //PlayerLose Texture
         Texture2D PlayerDeadScreen;
+        //PlayerLose Position
         Vector2 PlayerDeadScreenPos;
 
         //Sound effects
         SoundEffect BossAttack, BossDeath, VictoryTheme;
 
-        //Stops the next level loading
+        //Stops the next level loading by starting the boolean false
         bool EndLevel = false;
-        //Ends the current level and loads next level
+
+        //Ends the current level and loads next level if the boolean is set to true at any point
         public bool EndCurrentLevel
         {
             set { EndLevel = value; }
             get { return EndLevel; }
         }
 
-
         //sets a list of the collidables
         List<ICollidable> m_collidables = new List<ICollidable>();
 
+        //Display width for the game using the viewport
         int displaywidth;
         int displayheight;
 
+        //int used for time between the player dying and the game over screen loading
         int gameOverDelayTimer = 1000;
 
         public void LoadContent(ContentManager content, GraphicsDevice graphicsDevice)
         {
+            gameOverDelayTimer = 1000;
+
             displaywidth = graphicsDevice.Viewport.Width;
             displayheight = graphicsDevice.Viewport.Height;
 
-            //Background Texture information
+            //Loads the background image from the content pipeline
             BackgroundTexture = content.Load<Texture2D>("BackGround2");
+            //Gives the background a position
             BackgroundPosition = new Vector2(0, 0);
 
-            //EndScreen Texture information
+            //Loads the end screen image from the content pipeline
             EndScreen = content.Load<Texture2D>("Win");
+            //Gives the end screen a position
             EndScreenPos = new Vector2(0, 0);
 
-            //Player Dead screen information
+            //Loads the Players death screen image from the content pipeline
             PlayerDeadScreen = content.Load<Texture2D>("PlayerDead");
+            //Gives the Players death screen a position
             PlayerDeadScreenPos = new Vector2(0, 0);
 
             //Loads texture for the healthbar from the content pipeline
             Healthbar1 = content.Load<Texture2D>("NotMovingHealthBar");
+            //Gives the healthbar2 a position
             Healthbar2 = content.Load<Texture2D>("HealthBar");
+
+            //Loads the texture for the Flag from the pipeline
+            Flag = content.Load<Texture2D>("BossLevelEndpoint");
+            //Gives the flag a position
+            FlagPos = new Vector2(1400, 744);
+
+            //Hitboxs for the flag
+            FlagHitbox = new Rectangle((int)FlagPos.X, (int)FlagPos.Y, Flag.Width, Flag.Height);
 
             //Healthbar1 position
             Healthbar1Pos = new Vector2(0, 50);
 
-            //player
+            //player position
             Player = new Player(content, new Vector2(0, 756));
 
-            //Boss
+            //Boss position
             Boss = new Boss1(content, new Vector2(1300, 400));
 
-            //Bullet
+            //defines what happens if the boss is alive
             if (Boss.IsBossAlive)
             {
+                //Load the Projectile image from the pipeline if the boss is alive
                 Projectile = content.Load<Texture2D>("Projectile");
+                //Gives the Projectile a starting position if the boss is alive
                 ProjectilePos.X = -2000;
                 ProjectilePos.Y = -1000;
             }
 
-            //Platforms
+            //Loads the platforms image from the pipeline and gives them a position and adds them to the collidables list
             var Platform = new Platform(content, new Vector2(0, 200));
             m_collidables.Add(Platform);
 
@@ -123,7 +168,7 @@ namespace Knight_Times.Content
             Platform = new Platform(content, new Vector2(500, 550));
             m_collidables.Add(Platform);
 
-            //Platforms
+            //Loads the platform images that arent being drawn and gives them a position and adds them to the collidables list
             var Level1Platform = new XHitbox(content, new Vector2(0, 840));
             m_collidables.Add(Level1Platform);
 
@@ -133,26 +178,21 @@ namespace Knight_Times.Content
             Level1Platform = new XHitbox(content, new Vector2(168, 840));
             m_collidables.Add(Level1Platform);
 
-            //Endpoint
-            var endpoint = new EndPoint(content, new Vector2(1400, 744));
-            m_collidables.Add(endpoint);
-
             //Loads texture for the healthbar from the content pipeline
-
             Healthbar2 = content.Load<Texture2D>("Healthbar");
 
             //Loads the font from the font sheet
             Arial = content.Load<SpriteFont>("Font");
 
-            //The coordinates for the Bosses Health
+            //The coordinates for the Bosses Health displaying on screen
             BossHealthPosition.X = displaywidth / 2 - 150;
             BossHealthPosition.Y = 0;
 
-            //The coordinates for the Players Health
+            //The coordinates for the Players Health displaying on screen
             PlayersHealthPos.X = 0;
             PlayersHealthPos.Y = 0;
 
-            //Loads the sound effects
+            //Loads the sound effects from the content pipeline
             BossDeath = content.Load<SoundEffect>("BossDeath");
             BossAttack = content.Load<SoundEffect>("BossAttack");
             VictoryTheme = content.Load<SoundEffect>("VictoryTheme");
@@ -175,7 +215,7 @@ namespace Knight_Times.Content
                 Player.MoveMe(Keyboard.GetState(), timebetweenupdates);
             }
 
-            //Player attacks if they player is alive and the enter key is pressed
+            //Player attacks if they player is alive and the enter key/ X button is pressed
             if (Keyboard.GetState().IsKeyDown(Keys.Enter) || padState1.Buttons.X == ButtonState.Pressed && Player.IsPlayerAlive)
             {
                 Player.attack();
@@ -184,15 +224,19 @@ namespace Knight_Times.Content
             //all things that happen if the boss is alive
             if (Boss.IsBossAlive)
             {
+                //Creates an int that will be used for the range between the player and the boss
                 int range = 1000;
-                // Fire when within range
+                // boss fires the projectile when within range of the player
                 Vector2 distance = Player.PlayerPosition - new Vector2(Boss.Position.X, Boss.Position.Y - 100);
-                if (distance.Length() < 550 && (ProjectilePos.X < -range  || ProjectilePos.Y < -range || ProjectilePos.Y > displayheight+range) && Player.IsPlayerAlive)
+                if (distance.Length() < 550 && (ProjectilePos.X < -range || ProjectilePos.Y < -range || ProjectilePos.Y > displayheight + range) && Player.IsPlayerAlive)
                 {
-                    // FIRE
+                    //noramalise makes the number generated positive
                     distance.Normalize();
-                    ProjectileVel = distance *ProjectileSpeed;
+                    //Makes the velocity of the projectile the distance multiplied by the speed
+                    ProjectileVel = distance * ProjectileSpeed;
+                    //gives the projectile a position
                     ProjectilePos = new Vector2(Boss.Position.X, Boss.Position.Y - 100);
+                    //Plays a sound effect when the projectile spawns on screen
                     BossAttack.Play();
                 }
 
@@ -202,24 +246,24 @@ namespace Knight_Times.Content
                     Boss.BossLives -= 50;
                 }
 
-                // Daves cheat cause I don't know how to kill nessie
-                if (Keyboard.GetState().IsKeyDown(Keys.K))
-                    Boss.BossLives --;
+                ////Daves cheat cause I don't know how to kill nessie
+                ////really dave, cheat codes? I see how it is dave
+                //if (Keyboard.GetState().IsKeyDown(Keys.K))
+                //    Boss.BossLives--;
 
-
-                    //Moving the bosses projectile
-                    ProjectilePos += ProjectileVel;
+                //Moving the bosses projectile
+                ProjectilePos += ProjectileVel;
 
                 //Hitbox for the bosses projectile
                 ProjectileHitbox = new Rectangle((int)ProjectilePos.X, (int)ProjectilePos.Y, Projectile.Width, Projectile.Height);
 
-                //Player taking damage
+                //Player taking damage when the boss intersects the player and if the boss is alive
                 if (Player.Hitbox.Intersects(Boss.Hitbox) && Boss.IsBossAlive)
                 {
-                    Player.PlayerLives --;
+                    Player.PlayerLives--;
                 }
 
-                //If projectile intersects player, player loses life and moves back
+                //If projectile intersects player, player loses life
                 if (Player.Hitbox.Intersects(ProjectileHitbox))
                 {
                     Player.PlayerLives -= 10;
@@ -231,24 +275,25 @@ namespace Knight_Times.Content
                     Boss.CheckBossDamage();
                 }
 
-                //Code for killing boss
+                //Code for killing boss if the lives are equal to or below 0
                 if (Boss.BossLives <= 0)
                 {
                     Boss.IsBossAlive = false;
+                    //Plays a sound effectwhen the boss dies
                     BossDeath.Play();
                 }
             }
             else
             {
-                // YOU KILLED THE BOSS!!
-                //Lets the game load the next level if the two objects collide
-
                 //Changing Level
                 var endpoint = m_collidables.FirstOrDefault(x => x.CollisionType == CollidableType.Endpoint);
 
-                if (Player.Hitbox.Intersects(endpoint.Hitbox))
+                //If the player intersects the endpoint set the end level boolean to true
+                if (Player.Hitbox.Intersects(FlagHitbox))
                 {
                     EndLevel = true;
+
+                    //Plays a sound effect when the level ends
                     VictoryTheme.Play(0.6f, 0f, 0f);
                 }
             }
@@ -257,17 +302,19 @@ namespace Knight_Times.Content
             if (Player.PlayerLives < 0)
             {
                 Player.IsPlayerAlive = false;
-                gameOverDelayTimer -= gameTime.ElapsedGameTime.Milliseconds;
 
+                //begins the game over timer
+                gameOverDelayTimer -= gameTime.ElapsedGameTime.Milliseconds;
             }
 
-            //resetting the Player position if it goes off screen on the Y axis
             //resetting the Player position if it goes off screen on the Y axis
             if (Player.PlayerPosition.Y > displayheight + 500)
             {
+                //players loses health
                 Player.PlayerLives -= 2;
             }
-            if (Player.PlayerPosition.Y > displayheight +1000)
+            //resets the players position
+            if (Player.PlayerPosition.Y > displayheight + 1000)
             {
                 Player.TempPlayerPosition = new Vector2(300, -200);
             }
@@ -299,28 +346,26 @@ namespace Knight_Times.Content
             //Draws the background
             spriteBatch.Draw(BackgroundTexture, Vector2.Zero, Color.White);
 
-            //Draws the player
+            //Draws the player if the player is alive
             if (Player.IsPlayerAlive)
             {
                 Player.Draw(spriteBatch);
             }
 
-            //Draws bullet
+            //Draws bullet if the bullet is alive 
             if (Boss.IsBossAlive)
             {
                 spriteBatch.Draw(Projectile, ProjectilePos, Color.White);
             }
 
-            //Draws the boss
+            //Draws the boss if the boss is alive
             if (Boss.IsBossAlive)
             {
                 Boss.Draw(spriteBatch);
             }
 
-            //Allows the game to draw the hitboxes on each object on screen
-
             //draws all collidables excpet for the last one
-            for (int i = 0; i < m_collidables.Count()-1; i++)
+            for (int i = 0; i < m_collidables.Count() - 1; i++)
             {
                 m_collidables[i].Draw(spriteBatch);
             }
@@ -328,11 +373,13 @@ namespace Knight_Times.Content
             //adds the endpoint after to the boss dies
             if (!Boss.IsBossAlive)
             {
-                m_collidables[m_collidables.Count() - 1].Draw(spriteBatch);
+                spriteBatch.Draw(Flag, FlagHitbox, Color.White);
             }
 
             //Allows the bosses health to appear on screen
             spriteBatch.DrawString(Arial, "Boss Health: " + Boss.BossLives, BossHealthPosition, Color.White);
+
+            //Allows the timer to draw on screen
             spriteBatch.DrawString(Arial, "Time: " + (Time / 1000f).ToString("0.0"), new Vector2(600, 0), Color.White);
 
             //Allows the players health to be named on screen
@@ -347,15 +394,15 @@ namespace Knight_Times.Content
             //Draws the healthbar
             float healhbarwidth = ((float)Player.PlayerLives / 1000f) * 200f;
             spriteBatch.Draw(Healthbar1, Healthbar1Pos, Color.White);
-            spriteBatch.Draw(Healthbar2, new Rectangle(65, 51, (int)healhbarwidth, 50), Color.White);
+            spriteBatch.Draw(Healthbar2, new Rectangle(100, 70, (int)healhbarwidth, 50), Color.White);
 
-            // draw losing screen
+            //draw losing screen when the game timer is equal or less than 0
             if (gameOverDelayTimer <= 0)
             {
                 spriteBatch.Draw(PlayerDeadScreen, PlayerDeadScreenPos, Color.White);
             }
 
-            //Draws the game end screen if the player intersects the flag
+            //Draws the game end screen if the player intersects the flag and the endlevel bool is true
             if (EndLevel)
             {
                 spriteBatch.Draw(EndScreen, EndScreenPos, Color.White);
