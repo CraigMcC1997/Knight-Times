@@ -35,7 +35,7 @@ namespace Knight_Times.Content
         public Wall(ContentManager content, Vector2 position)
         {
             //Loads the wall texture from the content pipeline 
-            Texture = content.Load<Texture2D>("Wall");
+            Texture = content.Load<Texture2D>("Textures/Wall");
 
             //Sets starting position for Wall
             Position = position;

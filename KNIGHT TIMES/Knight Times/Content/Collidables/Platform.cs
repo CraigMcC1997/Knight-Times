@@ -33,7 +33,7 @@ namespace Knight_Times
         public Platform(ContentManager content, Vector2 pos)
         {
             //Loads the texture for tha platform from the content pipeline
-            PlatformTexture = content.Load<Texture2D>("platform");
+            PlatformTexture = content.Load<Texture2D>("Textures/platform");
 
             //Starting position of platform
             PlatformPosition = pos;

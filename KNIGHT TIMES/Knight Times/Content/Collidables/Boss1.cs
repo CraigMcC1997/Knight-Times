@@ -51,7 +51,7 @@ namespace Knight_Times
         public Boss1(ContentManager content, Vector2 pos)
         {
             //Texture for the Boss1
-            Texture = content.Load<Texture2D>("Boss");
+            Texture = content.Load<Texture2D>("Textures/Boss");
 
             //Sets starting position for Boss1
             Position = pos;

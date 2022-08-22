@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/SoundFiles/Sköll.MP3</SourceFile>
+  <SourceTime>2022-08-22T17:39:07.2732821+01:00</SourceTime>
+  <DestFile>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/bin/Windows/Content/SoundFiles/Sköll.xnb</DestFile>
+  <DestTime>2022-08-22T19:14:45.6926632+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/bin/Windows/Content/SoundFiles/Sköll.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

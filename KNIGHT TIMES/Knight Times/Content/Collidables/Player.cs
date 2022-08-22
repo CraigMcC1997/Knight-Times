@@ -83,19 +83,19 @@ namespace Knight_Times.Content
         public Player(ContentManager content, Vector2 pos)
         {
             //Loads the animation for the player walking from the content pipeline
-            PlayerAnimRight = new animation(content, "PlayerWalk", 0, 0, 1f, Color.White, true, 24, 1, 4, true, false, false);
+            PlayerAnimRight = new animation(content, "Textures/PlayerWalk", 0, 0, 1f, Color.White, true, 24, 1, 4, true, false, false);
 
             //Loads the animation for the player walking from the content pipeline
-            PlayerAnimLeft = new animation(content, "PlayerWalk", 0, 0, 1f, Color.White, true, 24, 1, 4, true, false, true);
+            PlayerAnimLeft = new animation(content, "Textures/PlayerWalk", 0, 0, 1f, Color.White, true, 24, 1, 4, true, false, true);
 
             //Loads the animation for the player attacking from the content pipeline
-            PlayerAttackRight = new animation(content, "PlayerAttack", 0, 0, 1f, Color.White, false, 12, 1, 4, false, false, false);
+            PlayerAttackRight = new animation(content, "Textures/PlayerAttack", 0, 0, 1f, Color.White, false, 12, 1, 4, false, false, false);
 
             //Loads the animation for the player attacking from the content pipeline
-            PlayerAttackLeft = new animation(content, "PlayerAttack", 0, 0, 1f, Color.White, false, 12, 1, 4, false, false, true);
+            PlayerAttackLeft = new animation(content, "Textures/PlayerAttack", 0, 0, 1f, Color.White, false, 12, 1, 4, false, false, true);
 
             //Loads the soubd effect for the player attacking from the content pipeline
-            PlayerAttackSound = content.Load<SoundEffect>("PlayerAttackSound");
+            PlayerAttackSound = content.Load<SoundEffect>("SoundFiles/PlayerAttackSound");
 
             //Sets starting position for Player
             PlayerPosition = pos;

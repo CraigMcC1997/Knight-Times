@@ -112,27 +112,27 @@ namespace Knight_Times.Content
             displayheight = graphicsDevice.Viewport.Height;
 
             //Loads the background image from the content pipeline
-            BackgroundTexture = content.Load<Texture2D>("BackGround2");
+            BackgroundTexture = content.Load<Texture2D>("Textures/BackGround2");
             //Gives the background a position
             BackgroundPosition = new Vector2(0, 0);
 
             //Loads the end screen image from the content pipeline
-            EndScreen = content.Load<Texture2D>("Win");
+            EndScreen = content.Load<Texture2D>("Textures/Win");
             //Gives the end screen a position
             EndScreenPos = new Vector2(0, 0);
 
             //Loads the Players death screen image from the content pipeline
-            PlayerDeadScreen = content.Load<Texture2D>("PlayerDead");
+            PlayerDeadScreen = content.Load<Texture2D>("Textures/PlayerDead");
             //Gives the Players death screen a position
             PlayerDeadScreenPos = new Vector2(0, 0);
 
             //Loads texture for the healthbar from the content pipeline
-            Healthbar1 = content.Load<Texture2D>("NotMovingHealthBar");
+            Healthbar1 = content.Load<Texture2D>("Textures/NotMovingHealthBar");
             //Gives the healthbar2 a position
-            Healthbar2 = content.Load<Texture2D>("HealthBar");
+            Healthbar2 = content.Load<Texture2D>("Textures/HealthBar");
 
             //Loads the texture for the Flag from the pipeline
-            Flag = content.Load<Texture2D>("BossLevelEndpoint");
+            Flag = content.Load<Texture2D>("Textures/BossLevelEndpoint");
             //Gives the flag a position
             FlagPos = new Vector2(1400, 744);
 
@@ -152,7 +152,7 @@ namespace Knight_Times.Content
             if (Boss.IsBossAlive)
             {
                 //Load the Projectile image from the pipeline if the boss is alive
-                Projectile = content.Load<Texture2D>("Projectile");
+                Projectile = content.Load<Texture2D>("Textures/Projectile");
                 //Gives the Projectile a starting position if the boss is alive
                 ProjectilePos.X = -2000;
                 ProjectilePos.Y = -1000;
@@ -179,10 +179,10 @@ namespace Knight_Times.Content
             m_collidables.Add(Level1Platform);
 
             //Loads texture for the healthbar from the content pipeline
-            Healthbar2 = content.Load<Texture2D>("Healthbar");
+            Healthbar2 = content.Load<Texture2D>("Textures/Healthbar");
 
             //Loads the font from the font sheet
-            Arial = content.Load<SpriteFont>("Font");
+            Arial = content.Load<SpriteFont>("Fonts/Font");
 
             //The coordinates for the Bosses Health displaying on screen
             BossHealthPosition.X = displaywidth / 2 - 150;

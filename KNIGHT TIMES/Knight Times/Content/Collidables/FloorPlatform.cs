@@ -32,7 +32,7 @@ namespace Knight_Times.Content
         public FloorPlatform(ContentManager content, Vector2 pos)
         {
             //Texture of the FloorPlatform
-            FloorPlatformTexture = content.Load<Texture2D>("FloorPlatform");
+            FloorPlatformTexture = content.Load<Texture2D>("Textures/FloorPlatform");
 
             //Starting position of FloorPlatform
             FloorPlatformPosition = pos;

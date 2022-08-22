@@ -32,7 +32,7 @@ namespace Knight_Times.Content
         public XHitbox(ContentManager content, Vector2 pos)
         {
             //Loads the texture for the XHitbox from the content pipeline
-            Texture = content.Load<Texture2D>("XHitbox");
+            Texture = content.Load<Texture2D>("Textures/XHitbox");
 
             //Starting position of XHitbox
             Position = pos;

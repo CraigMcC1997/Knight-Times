@@ -35,7 +35,7 @@ namespace Knight_Times.Content
         public EndPoint(ContentManager content, Vector2 position)
         {
             //Texture for the EndPoint
-            EndPointTexture = content.Load<Texture2D>("EndPoint");
+            EndPointTexture = content.Load<Texture2D>("Textures/EndPoint");
 
             //Sets starting position for EndPoint
             EndPointPosition = position;

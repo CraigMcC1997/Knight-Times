@@ -22,7 +22,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Spikes.png
+/build:Textures/Spikes.png
 
 #begin Background.png
 /importer:TextureImporter
@@ -33,7 +33,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Background.png
+/build:Textures/Background.png
 
 #begin EndPoint.png
 /importer:TextureImporter
@@ -44,7 +44,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:EndPoint.png
+/build:Textures/EndPoint.png
 
 #begin Player.png
 /importer:TextureImporter
@@ -55,7 +55,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Player.png
+/build:Textures/Player.png
 
 #begin FloorPlatform.png
 /importer:TextureImporter
@@ -66,13 +66,13 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:FloorPlatform.png
+/build:Textures/FloorPlatform.png
 
 #begin Font.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
 /processorParam:TextureFormat=Compressed
-/build:Font.spritefont
+/build:Fonts/Font.spritefont
 
 #begin Coin.png
 /importer:TextureImporter
@@ -83,7 +83,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Coin.png
+/build:Textures/Coin.png
 
 #begin Heavy.png
 /importer:TextureImporter
@@ -94,7 +94,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Heavy.png
+/build:Textures/Heavy.png
 
 #begin Castle.png
 /importer:TextureImporter
@@ -105,7 +105,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Castle.png
+/build:Textures/Castle.png
 
 #begin House1.png
 /importer:TextureImporter
@@ -116,7 +116,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:House1.png
+/build:Textures/House1.png
 
 #begin House2.png
 /importer:TextureImporter
@@ -127,7 +127,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:House2.png
+/build:Textures/House2.png
 
 #begin House3.png
 /importer:TextureImporter
@@ -138,7 +138,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:House3.png
+/build:Textures/House3.png
 
 #begin statue.png
 /importer:TextureImporter
@@ -149,7 +149,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:statue.png
+/build:Textures/statue.png
 
 #begin Ranged.png
 /importer:TextureImporter
@@ -160,7 +160,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Ranged.png
+/build:Textures/Ranged.png
 
 #begin XHitbox.png
 /importer:TextureImporter
@@ -171,7 +171,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:XHitbox.png
+/build:Textures/XHitbox.png
 
 #begin hitbox.png
 /importer:TextureImporter
@@ -182,7 +182,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:hitbox.png
+/build:Textures/hitbox.png
 
 #begin menubackgroundcopy.png
 /importer:TextureImporter
@@ -193,7 +193,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:menubackgroundcopy.png
+/build:Textures/menubackgroundcopy.png
 
 #begin platform.png
 /importer:TextureImporter
@@ -204,7 +204,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:platform.png
+/build:Textures/platform.png
 
 #begin hills2.png
 /importer:TextureImporter
@@ -215,7 +215,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:hills2.png
+/build:Textures/hills2.png
 
 #begin hills1.png
 /importer:TextureImporter
@@ -226,7 +226,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:hills1.png
+/build:Textures/hills1.png
 
 #begin castle2.png
 /importer:TextureImporter
@@ -237,7 +237,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:castle2.png
+/build:Textures/castle2.png
 
 #begin PlayerWalk.png
 /importer:TextureImporter
@@ -248,7 +248,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:PlayerWalk.png
+/build:Textures/PlayerWalk.png
 
 #begin PlayerAttack.png
 /importer:TextureImporter
@@ -259,7 +259,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:PlayerAttack.png
+/build:Textures/PlayerAttack.png
 
 #begin SheepAttack.png
 /importer:TextureImporter
@@ -270,7 +270,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:SheepAttack.png
+/build:Textures/SheepAttack.png
 
 #begin SheepWalk.png
 /importer:TextureImporter
@@ -281,7 +281,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:SheepWalk.png
+/build:Textures/SheepWalk.png
 
 #begin BackGround2.png
 /importer:TextureImporter
@@ -292,7 +292,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:BackGround2.png
+/build:Textures/BackGround2.png
 
 #begin Projectile.png
 /importer:TextureImporter
@@ -303,85 +303,85 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Projectile.png
+/build:Textures/Projectile.png
 
 #begin BossAttack.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:BossAttack.wav
+/build:SoundFiles/BossAttack.wav
 
 #begin BossDeath.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:BossDeath.wav
+/build:SoundFiles/BossDeath.wav
 
 #begin BossHurt.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:BossHurt.wav
+/build:SoundFiles/BossHurt.wav
 
 #begin BossTheme.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:BossTheme.wav
+/build:SoundFiles/BossTheme.wav
 
 #begin CoinPickup.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:CoinPickup.wav
+/build:SoundFiles/CoinPickup.wav
 
 #begin enemyattack.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:enemyattack.wav
+/build:SoundFiles/enemyattack.wav
 
 #begin EnemyHurt.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:EnemyHurt.wav
+/build:SoundFiles/EnemyHurt.wav
 
 #begin GameOver.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:GameOver.wav
+/build:SoundFiles/GameOver.wav
 
 #begin MenuMusic.WAV
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:MenuMusic.WAV
+/build:SoundFiles/MenuMusic.WAV
 
 #begin PlayerHurt.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:PlayerHurt.wav
+/build:SoundFiles/PlayerHurt.wav
 
 #begin PlayerJump.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:PlayerJump.wav
+/build:SoundFiles/PlayerJump.wav
 
 #begin shop.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:shop.wav
+/build:SoundFiles/shop.wav
 
 #begin Sköll.MP3
 /importer:Mp3Importer
 /processor:SongProcessor
 /processorParam:Quality=Best
-/build:Sköll.MP3
+/build:SoundFiles/Sköll.MP3
 
 #begin Light.png
 /importer:TextureImporter
@@ -392,19 +392,19 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Light.png
+/build:Textures/Light.png
 
 #begin PlayerAttackSound.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:PlayerAttackSound.wav
+/build:SoundFiles/PlayerAttackSound.wav
 
 #begin Knight Times.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:Knight Times.wav
+/build:SoundFiles/Knight Times.wav
 
 #begin NotMovingHealthBar.png
 /importer:TextureImporter
@@ -415,7 +415,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:NotMovingHealthBar.png
+/build:Textures/NotMovingHealthBar.png
 
 #begin Boss.png
 /importer:TextureImporter
@@ -426,7 +426,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Boss.png
+/build:Textures/Boss.png
 
 #begin HealthBar.png
 /importer:TextureImporter
@@ -437,13 +437,13 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:HealthBar.png
+/build:Textures/HealthBar.png
 
 #begin VictoryTheme.wav
 /importer:WavImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:VictoryTheme.wav
+/build:SoundFiles/VictoryTheme.wav
 
 #begin Crate.png
 /importer:TextureImporter
@@ -454,7 +454,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Crate.png
+/build:Textures/Crate.png
 
 #begin Controls.PNG
 /importer:TextureImporter
@@ -465,7 +465,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Controls.PNG
+/build:Textures/Controls.PNG
 
 #begin Win.PNG
 /importer:TextureImporter
@@ -476,7 +476,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Win.PNG
+/build:Textures/Win.PNG
 
 #begin Story.png
 /importer:TextureImporter
@@ -487,7 +487,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Story.png
+/build:Textures/Story.png
 
 #begin HeavyAttack.png
 /importer:TextureImporter
@@ -498,7 +498,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:HeavyAttack.png
+/build:Textures/HeavyAttack.png
 
 #begin HeavyWalk.png
 /importer:TextureImporter
@@ -509,7 +509,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:HeavyWalk.png
+/build:Textures/HeavyWalk.png
 
 #begin GameLose.png
 /importer:TextureImporter
@@ -520,7 +520,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:GameLose.png
+/build:Textures/GameLose.png
 
 #begin PlayerDead.png
 /importer:TextureImporter
@@ -531,7 +531,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:PlayerDead.png
+/build:Textures/PlayerDead.png
 
 #begin Wall.png
 /importer:TextureImporter
@@ -542,7 +542,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Wall.png
+/build:Textures/Wall.png
 
 #begin Cloud1.png
 /importer:TextureImporter
@@ -553,7 +553,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Cloud1.png
+/build:Textures/Cloud1.png
 
 #begin Cloud2.png
 /importer:TextureImporter
@@ -564,7 +564,7 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:Cloud2.png
+/build:Textures/Cloud2.png
 
 #begin BosslevelEndpoint.png
 /importer:TextureImporter
@@ -575,11 +575,11 @@
 /processorParam:PremultiplyAlpha=True
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:TextureFormat=Color
-/build:BosslevelEndpoint.png
+/build:Textures/BosslevelEndpoint.png
 
 #begin Song2.mp3
 /importer:Mp3Importer
 /processor:SongProcessor
 /processorParam:Quality=Best
-/build:Song2.mp3
+/build:SoundFiles/Song2.mp3
 

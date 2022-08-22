@@ -88,7 +88,7 @@ namespace Knight_Times
             Levels.Add(new BossLevel1());
 
             //Loads the font from the font sheet
-            Arial = Content.Load<SpriteFont>("Font");
+            Arial = Content.Load<SpriteFont>("Fonts/Font");
 
             // Load in high scores
             // This checks to see if the file exists

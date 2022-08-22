@@ -184,7 +184,7 @@ namespace Knight_Times.Content
             };
 
             //Loads the font from the font sheet
-            Arial = content.Load<SpriteFont>("Font");
+            Arial = content.Load<SpriteFont>("Fonts/Font");
 
             //The coordinates for the Players Health
             PlayersHealthPos.X = 0;
@@ -198,18 +198,18 @@ namespace Knight_Times.Content
             Camera.AdjustZoom(0.25f);
 
             //Background Texture information
-            BackgroundTexture = content.Load<Texture2D>("Background");
+            BackgroundTexture = content.Load<Texture2D>("Textures/Background");
             BackgroundPosition = new Vector2(-4000, -4000);
 
             //Player Dead screen information
-            PlayerDeadScreen = content.Load<Texture2D>("PlayerDead");
+            PlayerDeadScreen = content.Load<Texture2D>("Textures/PlayerDead");
 
             //FIX THIS OI FIX IT GET IT FIXED OI OI OI FIXY TIME BEFORE U FORGET AND NOT GET IT FIXED LIKE YOU NEED IT TO BE
             PlayerDeadScreenPos = new Vector2(2000, 500);
 
             //Loads texture for the healthbars from the content pipeline
-            Healthbar1 = content.Load<Texture2D>("NotMovingHealthBar");
-            Healthbar2 = content.Load<Texture2D>("HealthBar");
+            Healthbar1 = content.Load<Texture2D>("Textures/NotMovingHealthBar");
+            Healthbar2 = content.Load<Texture2D>("Textures/HealthBar");
 
             //Healthbar1 position
             Healthbar1Pos = new Vector2(0, 50);
@@ -220,12 +220,12 @@ namespace Knight_Times.Content
 
             //Adding an enemy from the baddies class and giving it a position //speed, health, damage
             enemies.Clear();
-            enemies.Add(new Baddies(content, "Heavy", new Vector2(8000, 1744), 1.5f, 100, 4));
-            enemies.Add(new Baddies(content, "Heavy", new Vector2(9000, 1744), 1f, 100, 4));
-            enemies.Add(new Baddies(content, "Heavy", new Vector2(10000, 1744), 0.7f, 100, 4));
-            enemies.Add(new Baddies(content, "Sheep", new Vector2(7000, 1824), 5f, 50, 3));
-            enemies.Add(new Baddies(content, "Sheep", new Vector2(7500, 1824), 4f, 50, 3));
-            enemies.Add(new Baddies(content, "Sheep", new Vector2(8000, 1824), 3f, 50, 3));
+            enemies.Add(new Baddies(content, "Textures/Heavy", new Vector2(8000, 1744), 1.5f, 100, 4));
+            enemies.Add(new Baddies(content, "Textures/Heavy", new Vector2(9000, 1744), 1f, 100, 4));
+            enemies.Add(new Baddies(content, "Textures/Heavy", new Vector2(10000, 1744), 0.7f, 100, 4));
+            enemies.Add(new Baddies(content, "Textures/Sheep", new Vector2(7000, 1824), 5f, 50, 3));
+            enemies.Add(new Baddies(content, "Textures/Sheep", new Vector2(7500, 1824), 4f, 50, 3));
+            enemies.Add(new Baddies(content, "Textures/Sheep", new Vector2(8000, 1824), 3f, 50, 3));
 
             //Floor
             m_collidables.Clear();
@@ -307,51 +307,51 @@ namespace Knight_Times.Content
             m_collidables.Add(Level1Platform);
 
             //Castle
-            castle = content.Load<Texture2D>("Castle");
+            castle = content.Load<Texture2D>("Textures/Castle");
             castlePosition = new Vector2(2000, 1045);
 
-            castle2 = content.Load<Texture2D>("Castle2");
+            castle2 = content.Load<Texture2D>("Textures/Castle2");
             castlePosition2 = new Vector2(2850, 1171);
 
             //statue
-            statue = content.Load<Texture2D>("Statue");
+            statue = content.Load<Texture2D>("Textures/Statue");
             statuePosition = new Vector2(3800, 1540);
 
             //House1
-            House1 = content.Load<Texture2D>("House1");
+            House1 = content.Load<Texture2D>("Textures/House1");
             House1Position = new Vector2(4500, 1350);
 
             //House2
-            House2 = content.Load<Texture2D>("House2");
+            House2 = content.Load<Texture2D>("Textures/House2");
             House2Position = new Vector2(6000, 950);
 
             //House3
-            House3 = content.Load<Texture2D>("House3");
+            House3 = content.Load<Texture2D>("Textures/House3");
             House3Position = new Vector2(8460, 1120);
 
             //Coins
-            Coin = content.Load<Texture2D>("Coin");
+            Coin = content.Load<Texture2D>("Textures/Coin");
             CoinPos = new Vector2(2250, 1110);
 
-            Coin2 = content.Load<Texture2D>("Coin");
+            Coin2 = content.Load<Texture2D>("Textures/Coin");
             CoinPos2 = new Vector2(2600, 1400);
 
-            Coin3 = content.Load<Texture2D>("Coin");
+            Coin3 = content.Load<Texture2D>("Textures/Coin");
             CoinPos3 = new Vector2(3900, 1520); 
 
-            Coin4 = content.Load<Texture2D>("Coin");
+            Coin4 = content.Load<Texture2D>("Textures/Coin");
             CoinPos4 = new Vector2(6060, 1560); 
 
-            Coin5 = content.Load<Texture2D>("Coin");
+            Coin5 = content.Load<Texture2D>("Textures/Coin");
             CoinPos5 = new Vector2(6600, 1350);
 
-            Coin6 = content.Load<Texture2D>("Coin");
+            Coin6 = content.Load<Texture2D>("Textures/Coin");
             CoinPos6 = new Vector2(7450, 1350); 
 
-            Coin7 = content.Load<Texture2D>("Coin");
+            Coin7 = content.Load<Texture2D>("Textures/Coin");
             CoinPos7 = new Vector2(10100, 1470);
 
-            coin8 = content.Load<Texture2D>("Coin");
+            coin8 = content.Load<Texture2D>("Textures/Coin");
             coinPosition8 = new Vector2(3000, 100);
 
             //Hitboxs for the coins
@@ -374,35 +374,35 @@ namespace Knight_Times.Content
             isCoinAlive8 = true;
 
             //Hills
-            hills1 = content.Load<Texture2D>("hills1");
+            hills1 = content.Load<Texture2D>("Textures/hills1");
             hills1Position = new Vector2(4000, 1395);
 
-            hills2 = content.Load<Texture2D>("hills2");
+            hills2 = content.Load<Texture2D>("Textures/hills2");
             hills2Position = new Vector2(1000, 1395);
 
             //Clouds
-            Cloud1 = content.Load<Texture2D>("Cloud1");
+            Cloud1 = content.Load<Texture2D>("Textures/Cloud1");
             Cloud1Pos = new Vector2(9000, 1200);
 
-            Cloud2 = content.Load<Texture2D>("Cloud1");
+            Cloud2 = content.Load<Texture2D>("Textures/Cloud1");
             Cloud2Pos = new Vector2(11000, 1300);
 
-            Cloud3 = content.Load<Texture2D>("Cloud1");
+            Cloud3 = content.Load<Texture2D>("Textures/Cloud1");
             Cloud3Pos = new Vector2(8040, 1400);
 
-            Cloud4 = content.Load<Texture2D>("Cloud1");
+            Cloud4 = content.Load<Texture2D>("Textures/Cloud1");
             Cloud4Pos = new Vector2(14000, 1470);
 
-            Cloud5 = content.Load<Texture2D>("Cloud1");
+            Cloud5 = content.Load<Texture2D>("Textures/Cloud1");
             Cloud5Pos = new Vector2(8500, 1590);
 
-            Cloud6 = content.Load<Texture2D>("Cloud1");
+            Cloud6 = content.Load<Texture2D>("Textures/Cloud1");
             Cloud6Pos = new Vector2(7846, 1109);
 
-            Cloud7 = content.Load<Texture2D>("Cloud1");
+            Cloud7 = content.Load<Texture2D>("Textures/Cloud1");
             Cloud7Pos = new Vector2(11960, 1407);
 
-            Cloud8 = content.Load<Texture2D>("Cloud1");
+            Cloud8 = content.Load<Texture2D>("Textures/Cloud1");
             Cloud8Pos = new Vector2(9574, 1389);
 
             //Walls
@@ -417,10 +417,10 @@ namespace Knight_Times.Content
             m_collidables.Add(endpoint);
 
             //Loads the background music
-            BackgroundMusic = content.Load<Song>("Sköll");
+            BackgroundMusic = content.Load<Song>("SoundFiles/Sköll");
 
             //Loads the sound file for collecting the coins 
-            CoinPickup = content.Load<SoundEffect>("CoinPickup");
+            CoinPickup = content.Load<SoundEffect>("SoundFiles/CoinPickup");
 
             //Plays the song
             MediaPlayer.Play(BackgroundMusic);

@@ -84,17 +84,17 @@ namespace Knight_Times.Content
             Camera.AdjustZoom(0.25f);
 
             //Loads background1 image from the content pipeline
-            background = content.Load<Texture2D>("menubackgroundcopy");
+            background = content.Load<Texture2D>("Textures/menubackgroundcopy");
             //Gives background1 a position
             backgroundPos = new Vector2(0, 0);
 
             //Loads background2 image from the content pipeline
-            background2 = content.Load<Texture2D>("Story");
+            background2 = content.Load<Texture2D>("Textures/Story");
             //Gives background2 a position
             background2Pos = new Vector2(170, 75);
 
             //Loads background3 image from the content pipeline
-            background3 = content.Load<Texture2D>("Controls");
+            background3 = content.Load<Texture2D>("Textures/Controls");
             //Gives background3 a position
             background3Pos = new Vector2(170, 50);
 
@@ -102,7 +102,7 @@ namespace Knight_Times.Content
             Player = new Player(content, new Vector2(970, 740));
 
             //Loads the background music
-            BackGroundSong = content.Load<Song>("Song2");
+            BackGroundSong = content.Load<Song>("SoundFiles/Song2");
 
             //Plays the song
             MediaPlayer.Play(BackGroundSong);
