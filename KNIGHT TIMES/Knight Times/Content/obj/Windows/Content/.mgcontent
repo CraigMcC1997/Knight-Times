@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Spikes.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/BackGround.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/EndPoint.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Player.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/FloorPlatform.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Font.spritefont</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Coin.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Heavy.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Castle.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/House1.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/House2.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/House3.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/statue.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Ranged.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/XHitbox.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/hitbox.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/menubackgroundcopy.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/platform.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/hills2.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/hills1.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/castle2.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/PlayerWalk.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/PlayerAttack.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/SheepAttack.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/SheepWalk.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/BackGround2.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Projectile.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/BossAttack.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/BossDeath.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/BossHurt.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/BossTheme.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/CoinPickup.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/enemyattack.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/EnemyHurt.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/GameOver.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/MenuMusic.WAV</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/PlayerHurt.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/PlayerJump.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/shop.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Sköll.MP3</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Light.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/PlayerAttackSound.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Knight Times.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/NotMovingHealthBar.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Boss.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/HealthBar.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/VictoryTheme.wav</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Crate.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Controls.PNG</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Win.PNG</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Story.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/HeavyAttack.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/HeavyWalk.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/GameLose.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/PlayerDead.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Wall.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Cloud1.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Cloud2.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/BosslevelEndpoint.png</File>
+    <File>N:/Code Repositories/Knight Times/KNIGHT TIMES/Knight Times/Content/Song2.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
