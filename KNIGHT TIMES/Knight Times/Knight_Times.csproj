@@ -58,22 +58,22 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Content\Animation.cs" />
-    <Compile Include="Content\Boss1.cs" />
-    <Compile Include="Content\BossLevel1.cs" />
+    <Compile Include="Content\Collidables\Boss1.cs" />
+    <Compile Include="Content\Levels\BossLevel1.cs" />
     <Compile Include="Content\Camera.cs" />
     <Compile Include="Content\keyboard.cs" />
-    <Compile Include="Content\EndPoint.cs" />
-    <Compile Include="Content\FloorPlatform.cs" />
-    <Compile Include="Content\GameStartScreen.cs" />
-    <Compile Include="Content\Ilevel.cs" />
-    <Compile Include="Content\Wall.cs" />
-    <Compile Include="Content\XHitbox.cs" />
-    <Compile Include="Content\Level1.cs" />
-    <Compile Include="Content\Baddies.cs" />
+    <Compile Include="Content\Collidables\EndPoint.cs" />
+    <Compile Include="Content\Collidables\FloorPlatform.cs" />
+    <Compile Include="Content\Levels\GameStartScreen.cs" />
+    <Compile Include="Content\Levels\Ilevel.cs" />
+    <Compile Include="Content\Collidables\Wall.cs" />
+    <Compile Include="Content\Collidables\XHitbox.cs" />
+    <Compile Include="Content\Levels\Level1.cs" />
+    <Compile Include="Content\Collidables\Baddies.cs" />
     <Compile Include="Game1.cs" />
-    <Compile Include="Content\Player.cs" />
+    <Compile Include="Content\Collidables\Player.cs" />
     <Compile Include="Interfaces.cs" />
-    <Compile Include="Content\Platform.cs" />
+    <Compile Include="Content\Collidables\Platform.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -110,6 +110,7 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
