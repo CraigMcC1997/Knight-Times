@@ -24,7 +24,7 @@ namespace Knight_Times.Content
         }
 
         //Defines the Height and Width of the screen
-        public const int WindowWidth = 2000;
+        public const int WindowWidth = 1800;
         public const int WindowHeight = 1000;
 
         //3 booleans to see if the gamescreens have to be drawn or not

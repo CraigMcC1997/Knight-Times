@@ -36,7 +36,7 @@ namespace Knight_Times.Content
         private Camera Camera;
 
         //Defines the Height and Width of the screen
-        public const int WindowWidth = 2000;
+        public const int WindowWidth = 1800;
         public const int WindowHeight = 1000;
 
         //Timer
@@ -375,7 +375,7 @@ namespace Knight_Times.Content
 
             //Hills
             hills1 = content.Load<Texture2D>("Textures/hills1");
-            hills1Position = new Vector2(4000, 1395);
+            hills1Position = new Vector2(4500, 1395);
 
             hills2 = content.Load<Texture2D>("Textures/hills2");
             hills2Position = new Vector2(1000, 1395);

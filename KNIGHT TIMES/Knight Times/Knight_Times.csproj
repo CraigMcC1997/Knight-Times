@@ -8,8 +8,8 @@
     <ProjectGuid>{65AB799F-0FD2-42CC-8F8C-72E52CF6F458}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Dont_give_up</RootNamespace>
-    <AssemblyName>Dont give up</AssemblyName>
+    <RootNamespace>Knight_Times</RootNamespace>
+    <AssemblyName>Knight Times</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MonoGamePlatform>Windows</MonoGamePlatform>
     <MonoGameContentBuilderExe>

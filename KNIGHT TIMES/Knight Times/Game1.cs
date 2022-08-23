@@ -55,9 +55,8 @@ namespace Knight_Times
         Boolean newhighscore = false;
 
         //Defines the Height and Width of the screen
-        public const int WindowWidth = 1200;
-        public const int WindowHeight = 600;
-
+        public const int WindowWidth = 1800;
+        public const int WindowHeight = 1000;
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);

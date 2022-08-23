@@ -193,9 +193,9 @@ namespace Knight_Times.Content
             PlayersHealthPos.Y = 0;
 
             //Loads the sound effects from the content pipeline
-            BossDeath = content.Load<SoundEffect>("BossDeath");
-            BossAttack = content.Load<SoundEffect>("BossAttack");
-            VictoryTheme = content.Load<SoundEffect>("VictoryTheme");
+            BossDeath = content.Load<SoundEffect>("SoundFiles/BossDeath");
+            BossAttack = content.Load<SoundEffect>("SoundFiles/BossAttack");
+            VictoryTheme = content.Load<SoundEffect>("SoundFiles/VictoryTheme");
         }
 
         public void Update(GameTime gameTime, ref float TimeTaken)
